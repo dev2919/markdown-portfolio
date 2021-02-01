@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+## Favrouite food
+* Pizza
+* Dosa
+  * Masala dosa
+  *Mysore :smile:
+* Pasta
